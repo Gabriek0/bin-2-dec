@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bin2Dec</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+  <body>
+    <div id="mainContainer">
+     <div id="titleContainer">
+      <h1>BIN2DEC</h1>
+      <img src="binary-file.png" alt="Binary Image">
+    </div>
+      <div id="formContainer">
+        <input
+          id="inputNumber"
+          type="number"
+          placeholder="Enter a binary number"
+        />
+        <button id="button" onclick="binToDec()">TO CONVERT</button>
+        <div id="output">
+          <input id="showingBinaryNumber" type="number" value="0" />
+        </div>
+      </div>
+      <p>by Gabriel</p>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
