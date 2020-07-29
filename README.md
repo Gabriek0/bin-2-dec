@@ -1,4 +1,4 @@
-<h1 align="center">BIN2DEC 🖥️</h1>
+<h1 align="center">Bin2Dec 🖥️</h1>
 <h1 align="center">
   <img  src=".github/binaryToDecimal.gif" alt="nome do projeto"  align="center" width="110%">
 </h1>
