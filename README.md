@@ -26,7 +26,7 @@
 
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/Gabriek0/bin-2-dec.git
 
 # Entre no diretório do projeto
 cd bin-2-dec
@@ -44,7 +44,7 @@ npm start
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--  [React](https://pt-br.reactjs.org/)
+- [React](https://pt-br.reactjs.org/)
 
 
   </br>
