@@ -51,7 +51,8 @@ npm start
 
 ## 🔨 Funcionalidades
 
-- [x] O usuário pode incluir seu CPF em dois campos: o primeiro é o campo de _CPF_ e o outro o de _confirmação de CPF_, se o CPF for válido o **CPF Validaton** irá informar.
+- [x] O usuário pode colocar os números binários no input.
+- [x] O usuário pode converter o valor binário para decimal clicando no botão.
 
 </br>
 
@@ -68,4 +69,4 @@ npm start
 
 ## 📜 Licença
 
-- [![NPM]()]()
+- [![NPM](https://img.shields.io/github/license/Gabriek0/bin-2-dec)]()
