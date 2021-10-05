@@ -69,4 +69,4 @@ npm start
 
 ## 📜 Licença
 
-- [![NPM](https://img.shields.io/github/license/Gabriek0/bin-2-dec)]()
+- [![NPM](https://img.shields.io/github/license/Gabriek0/bin-2-dec)](https://github.com/Gabriek0/bin-2-dec/blob/main/LICENSE)
